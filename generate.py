@@ -12,7 +12,7 @@ import tensorflow as tf
 
 from wavenet import WaveNetModel, mu_law_decode, mu_law_encode, audio_reader
 
-SAMPLES = 16000
+SAMPLES = 44100
 TEMPERATURE = 1.0
 LOGDIR = './logdir'
 WAVENET_PARAMS = './wavenet_params.json'
