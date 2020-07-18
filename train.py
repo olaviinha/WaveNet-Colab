@@ -21,7 +21,7 @@ from wavenet import WaveNetModel, AudioReader, optimizer_factory
 
 BATCH_SIZE = 1
 DATA_DIRECTORY = './VCTK-Corpus'
-LOGDIR_ROOT = '/content/drive/My Drive/ai/output/wavenet-marin-train'
+LOGDIR_ROOT = '/content/drive/My Drive/ai/output'
 CHECKPOINT_EVERY = 50
 NUM_STEPS = int(1e5)
 LEARNING_RATE = 1e-3
