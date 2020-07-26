@@ -5,3 +5,7 @@ This is a slightly modified version of [A TensorFlow implementation of DeepMind'
 ## Modifications
 
 - 44.1 kHz sample rate and other default settings
+
+## Run in Colab
+
+https://joku.asia/wavenet
