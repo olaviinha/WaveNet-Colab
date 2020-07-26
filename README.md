@@ -8,7 +8,7 @@ This is a slightly modified version of [A TensorFlow implementation of DeepMind'
 
 ## Current bugs
 
-- Due to version prerequisition mismatches, this is currently unable to continue training from any previous checkpoint. Though it may come as consolation that you can exit Colab and leave it running, easily achieving 1e5 steps in one go.
+- Due to prerequisition version mismatches in Colab, this is currently unable to continue training from any previous checkpoint. Though it may come as consolation that you can exit Colab and leave it running, easily achieving 1e5 steps in one go.
 
 ## Run in Google Colaboratory
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/WaveNet-colab/blob/master/WaveNet.ipynb)
