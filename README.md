@@ -6,7 +6,7 @@ This is a slightly modified version of [A TensorFlow implementation of DeepMind'
 
 - 44.1 kHz sample rate and other default settings
 
-## Malfunctions
+## Current bugs
 
 - Due to version prerequisition mismatches, this is currently unable to continue training from any previous checkpoint. On the plus side, you can exit Colab and leave it running, easily achieving 1e5 steps in one go.
 
