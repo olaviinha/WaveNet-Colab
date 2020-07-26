@@ -6,4 +6,5 @@ This is a slightly modified version of [A TensorFlow implementation of DeepMind'
 
 - 44.1 kHz sample rate and other default settings
 
+## Open in Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/wav-concat-colab/blob/master/wav_concat.ipynb)
