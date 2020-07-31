@@ -1,4 +1,4 @@
-# WaveNet (colab)
+# WaveNet
 
 This is a slightly modified and barely functioning version of [A TensorFlow implementation of DeepMind's WaveNet paper](https://github.com/ibab/tensorflow-wavenet) to be run in Google Colaboratory, using Google Drive as data storage. See [the original repository](https://github.com/ibab/tensorflow-wavenet) for details.
 
