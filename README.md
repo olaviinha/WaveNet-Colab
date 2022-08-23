@@ -8,7 +8,7 @@ This is a slightly modified and barely functioning version of [A TensorFlow impl
 
 ## Current bugs
 
-- Due to prerequisition version mismatches in Colab, this is currently unable to continue training from any previous checkpoint. Though it may come as consolation that you can exit Colab and leave it running, easily achieving 1e5 steps in one go.
+- Due to prerequisition version mismatches in Colab, this is currently unable to continue training from any previous checkpoint. Though it may come as consolation that you can easily achieve 1e5 steps during 24h Colab runtime period.
 
 ## Run in Google Colaboratory
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/WaveNet/blob/master/WaveNet.ipynb)
